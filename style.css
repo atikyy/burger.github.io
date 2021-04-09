@@ -72,7 +72,7 @@ ul {
 
 .hero {
   background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)),
-    url(/Images/pexels-jonathan-borba-2983102.jpg);
+    url(Images/pexels-jonathan-borba-2983102.jpg);
   min-height: 90vh;
   background-position: center;
   background-size: cover;
@@ -99,7 +99,7 @@ button {
 
 #about {
   min-height: 100vh;
-  background-image: url(/Images/burger-top2.PNG);
+  background-image: url(Images/burger-top2.PNG);
   background-position: center;
   background-position-y: bottom;
   background-size: cover;
@@ -230,7 +230,7 @@ button {
 
 #order {
   min-height: 100vh;
-  background-image: url(/Images/order\ now\ 2.jpg);
+  background-image: url(Images/order\ now\ 2.jpg);
   background-size: cover;
   background-position: center;
   color: white;
